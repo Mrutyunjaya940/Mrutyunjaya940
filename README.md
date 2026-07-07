@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Mrutyunjaya Sahoo 👋
 
-<!--
-**Mrutyunjaya940/Mrutyunjaya940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MCA Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am passionate about building scalable web applications and continuously improving my programming skills. Currently pursuing my Master of Computer Applications (MCA) while learning modern technologies such as Java, Spring Boot, Microservices, AWS, Docker, and Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Java & Advanced Java
+- Spring Boot & Microservices
+- HTML, CSS & JavaScript
+- SQL & MySQL
+- AWS & Docker
+- Data Structures & Algorithms
+
+## 💻 Tech Stack
+
+### Languages
+- Java
+- C
+- JavaScript
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Spring Boot
+- REST APIs
+- Microservices
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Docker
+- AWS
+
+## 📌 Goals
+- Build enterprise-level applications.
+- Contribute to open-source projects.
+- Learn something new every day.
+- Become a skilled Software Engineer.
+
+## 📊 GitHub Stats
+- 🔥 Consistently improving through coding.
+- 📚 Solving Java and DSA problems.
+- 🚀 Building real-world projects.
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your-email@example.com
+
+⭐ "Learn Every Day, Improve Every Day."
