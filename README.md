@@ -1,59 +1,81 @@
-# Hi there, I'm Mrutyunjaya Sahoo 👋
+<h1 align="center">Hi 👋, I'm Mrutyunjaya Sahoo</h1>
+<h3 align="center">🚀 Full-Stack Developer | MCA Student | Aspiring Software Engineer</h3>
 
-🚀 Full-Stack Developer | MCA Student | Aspiring Software Engineer
+<p align="center">
+Passionate about building scalable web applications, backend systems, and enterprise-level software using Java and Spring Boot.
+</p>
 
-I am passionate about building scalable web applications and continuously improving my programming skills. Currently pursuing my Master of Computer Applications (MCA) while learning modern technologies such as Java, Spring Boot, Microservices, AWS, Docker, and Full-Stack Development.
+---
 
-## 🌱 Currently Learning
-- Java & Advanced Java
-- Spring Boot & Microservices
-- HTML, CSS & JavaScript
-- SQL & MySQL
-- AWS & Docker
-- Data Structures & Algorithms
+## 🚀 About Me
 
-## 💻 Tech Stack
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 💻 Passionate about **Java, Spring Boot, Microservices, and Full-Stack Development**
+- 🌱 Currently learning **AWS, Docker, Kafka, and AI Integration**
+- 📚 Solving Java & DSA problems regularly
+- 🚀 Building real-world projects to strengthen my development skills
+- 🎯 Goal: Become a Software Engineer and contribute to impactful products
 
-### Languages
-- Java
-- C
-- JavaScript
-- SQL
+---
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+## 🛠 Tech Stack
 
-### Backend
-- Spring Boot
-- REST APIs
-- Microservices
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,mysql" />
+</p>
 
-### Database
-- MySQL
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,docker,aws" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-- Docker
-- AWS
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
-## 📌 Goals
-- Build enterprise-level applications.
-- Contribute to open-source projects.
-- Learn something new every day.
-- Become a skilled Software Engineer.
+---
 
 ## 📊 GitHub Stats
-- 🔥 Consistently improving through coding.
-- 📚 Solving Java and DSA problems.
-- 🚀 Building real-world projects.
+
+![](https://github-readme-stats.vercel.app/api?username=Mrutyunjaya940&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mrutyunjaya940&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrutyunjaya940&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Mrutyunjaya940&theme=tokyonight&margin-w=10&margin-h=10)
+
+---
+
+## 📌 Current Focus
+
+- ☕ Java Development
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🏗 Microservices
+- ☁ AWS Cloud
+- 🐳 Docker
+- 📊 SQL & MySQL
+- 🤖 AI Integration
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@example.com
 
-⭐ "Learn Every Day, Improve Every Day."
+- 🌐 GitHub: https://github.com/Mrutyunjaya940
+- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 📧 Email: sahoo10022004@gmail.comm
+
+---
+
+## 💡 Quote
+
+> **"Learn Every Day • Build Every Day • Improve Every Day."**
+
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
