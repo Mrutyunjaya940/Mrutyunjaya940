@@ -25,11 +25,13 @@ I am an MCA student focused on backend development, data structures & algorithms
 ![Mrutyunjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrutyunjaya940&show_icons=true&theme=tokyonight&hide_border=true)
 ![Mrutyunjaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrutyunjaya940&theme=tokyonight&hide_border=true)
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mrutyunjaya940/)
+
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrutyunjaya-sahoo-449548386)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahoo10022004@gmail.com)
 
 ⭐ Thanks for stopping by — feel free to check out my pinned repositories below!
