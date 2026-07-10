@@ -19,13 +19,6 @@ I am an MCA student focused on backend development, data structures & algorithms
 
 ---
 
-### 📊 My Coding Activity & Metrics
-
-![Mrutyunjaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrutyunjaya940&show_icons=true&theme=tokyonight&hide_border=true)
-![Mrutyunjaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrutyunjaya940&theme=tokyonight&hide_border=true)
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mrutyunjaya940/)
-
 ---
 
 ### 📫 Let's Connect!
