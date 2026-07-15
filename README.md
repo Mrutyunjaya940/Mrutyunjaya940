@@ -5,7 +5,7 @@
 I am an MCA student focused on backend development, data structures & algorithms, and building solid Java foundations. I enjoy working through problems with clean, object-oriented code and turning coursework into real, working projects.
 
 - 🎓 **Education:** Pursuing Master of Computer Applications (MCA), deep-diving into Data Structures & Algorithms and Competitive Coding
-- ⚙️ **Tech Stack:** Java, Git/GitHub workflows, and console-based application design (Bank/ATM management system)
+- ⚙️ **Tech Stack:** Java, Git/GitHub workflows, and console-based application design (Bank/ATM management system, Pay Roll System)
 
 ---
 
