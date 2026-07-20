@@ -1,29 +1,58 @@
-<h1 align="left">Hi there, I'm Mrutyunjaya Sahoo 👋</h1>
+<h1 align="center">Hi 👋, I'm Mrutyunjaya</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Java Backend Developer | DSA & Competitive Coding Enthusiast</h3>
 
-### 🚀 Backend Developer & Aspiring Software Engineer
-
-I am an MCA student focused on backend development, data structures & algorithms, and building solid Java foundations. I enjoy working through problems with clean, object-oriented code and turning coursework into real, working projects.
-
-- 🎓 **Education:** Pursuing Master of Computer Applications (MCA), deep-diving into Data Structures & Algorithms and Competitive Coding
-- ⚙️ **Tech Stack:** Java, Git/GitHub workflows, and console-based application design (Bank/ATM management system, Pay Roll System)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Data+Structures+%26+Algorithms;Competitive+Coder;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-### 🧰 Tech Stack & Badges
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Concepts** | ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-5C2D91?style=flat-square) ![OOP](https://img.shields.io/badge/-OOP-orange?style=flat-square) |
-| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
----
+## 👨‍💻 About Me
+- 🎓 MCA Student at Centurion University, Bhubaneswar
+- ☕ Passionate about Java & Backend Development
+- 🧩 Sharpening problem-solving skills through DSA & Competitive Coding
+- 🎯 Preparing for campus placements
+- 📫 Email: **sahoo10022004@gmail.com**
 
 ---
 
-### 📫 Let's Connect!
+## 🛠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,vscode,eclipse,idea"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrutyunjaya-sahoo-449548386)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahoo10022004@gmail.com)
+---
 
-⭐ Thanks for stopping by — feel free to check out my pinned repositories below!
+## 🚀 Featured Projects
+- 🏧 Bank/ATM Console Application (Java) — multi-file project applying Collections, exception handling & synchronization
+- ☕ Java Programming Practice
+- 🧠 DSA & Competitive Coding Solutions
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mrutyunjaya940&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mrutyunjaya940&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrutyunjaya940&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mrutyunjaya940&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mrutyunjaya940&theme=tokyo-night)
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: **sahoo10022004@gmail.com**
+- 💻 GitHub: [@Mrutyunjaya940](https://github.com/Mrutyunjaya940)
+- 🧩 LeetCode: *(paste your LeetCode profile URL here)*
+- 💼 LinkedIn: *(paste your LinkedIn URL here)*
+
+---
+
+⭐ Thanks for visiting my profile!
