@@ -50,8 +50,8 @@
 ## 🤝 Connect With Me
 - 📧 Email: **sahoo10022004@gmail.com**
 - 💻 GitHub: [@Mrutyunjaya940](https://github.com/Mrutyunjaya940)
-- 🧩 LeetCode: *(paste your LeetCode profile URL here)*
-- 💼 LinkedIn: *(paste your LinkedIn URL here)*
+- 🧩 LeetCode: *(paste your LeetCode profile URL her)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/mrutyunjaya-sahoo-449548386?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 
 ---
 
