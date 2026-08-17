@@ -40,10 +40,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrutyunjaya940&theme=tokyonight&no-frame=true&row=1)
 
----
-
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mrutyunjaya940&theme=tokyo-night)
 
 ---
 
