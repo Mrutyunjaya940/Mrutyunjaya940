@@ -23,13 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🏧 Bank/ATM Console Application (Java) — multi-file project applying Collections, exception handling & synchronization
-- ☕ Java Programming Practice
-- 🧠 DSA & Competitive Coding Solutions
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mrutyunjaya940&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrutyunjaya940&theme=tokyonight)
