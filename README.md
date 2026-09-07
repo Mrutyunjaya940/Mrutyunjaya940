@@ -30,12 +30,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrutyunjaya940&theme=tokyonight&no-frame=true&row=1)
-
-
----
-
 ## 🤝 Connect With Me
 - 📧 Email: **sahoo10022004@gmail.com**
 - 💻 GitHub: [@Mrutyunjaya940](https://github.com/Mrutyunjaya940)
