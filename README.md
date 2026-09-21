@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Java Backend Developer | DSA & Competitive Coding Enthusiast</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrutyunjaya940&label=Profile%20Views&color=00C2FF&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Data+Structures+%26+Algorithms;Competitive+Coder;Always+Learning+New+Technologies" />
 </p>
 
