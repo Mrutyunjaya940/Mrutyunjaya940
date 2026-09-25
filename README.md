@@ -12,7 +12,6 @@
 - 🎓 MCA Student at Centurion University, Bhubaneswar
 - ☕ Passionate about Java & Backend Development
 - 🧩 Sharpening problem-solving skills through DSA & Competitive Coding
-- 🎯 Preparing for campus placements
 - 📫 Email: **sahoo10022004@gmail.com**
 
 ---
