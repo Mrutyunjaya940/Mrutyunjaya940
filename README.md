@@ -7,7 +7,6 @@
 </p>
 
 ---
----
 
 ## 👨‍💻 About Me
 - 🎓 MCA Student at Centurion University, Bhubaneswar
