@@ -15,10 +15,9 @@
 - 📫 Email: **sahoo10022004@gmail.com**
 
 ---
-
 ## 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,ts,js,html,css,git,github,vscode,eclipse,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,kafka,docker,angular,ts,js,html,css,git,github,vscode,eclipse,idea"/>
 </p>
 
 ---
